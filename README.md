@@ -59,6 +59,7 @@ python main.py
 Botがログインし、スケジューラが自動的に起動します。
 
 ## 📁 ディレクトリ構成
+```bash
 discord_bot/
 ├── main.py                  # メイン実行ファイル（Bot起動）
 ├── bot/
@@ -72,7 +73,7 @@ discord_bot/
 │   └── schedule.xlsx        # データファイル（予定表など）
 ├── requirements.txt         # 使用ライブラリ一覧
 └── README.md                # プロジェクト概要（このファイル）
-
+```
 ## 📦 使用ライブラリ
 discord.py
 
